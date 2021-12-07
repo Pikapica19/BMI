@@ -72,12 +72,6 @@ export default function App() {
         )}
       </form>
     </div>
-    <div className="img1">
-    <img src="./images/girl.png" height = {400}/>
-    </div>
-    <div className="img2">
-      <img src="./images/boy.png" height = {400}/>
-    </div>
     </div>    
   );
 }
